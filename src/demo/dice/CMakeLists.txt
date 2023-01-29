@@ -1,0 +1,1 @@
+processDesktopApp(Dice "osapp;casino" "")
